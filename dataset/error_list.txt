@@ -1,0 +1,1 @@
+trainval_pic_crop/10020533.jpg trainval_tag_crop/10020533.png
